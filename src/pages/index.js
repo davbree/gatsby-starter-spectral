@@ -42,7 +42,7 @@ const IndexPage = () => (
           <p>
             The is some paragraph text??
             <br />
-             
+            p
           </p>
         </header>
         <ul className="icons major">
