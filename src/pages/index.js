@@ -191,7 +191,7 @@ const IndexPage = () => (
             </a>
           </li>
           <li>
-            <a href="/#" className="button fit">
+            <a href="http://www.moo.com" className="button fit">
               Learn More
             </a>
           </li>
