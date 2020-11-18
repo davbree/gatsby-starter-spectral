@@ -40,7 +40,7 @@ const IndexPage = () => (
             eget augue amet aliquet nisl cep donec
           </h2>
           <p>
-            The is some paragraph text
+            The is some paragraph text??
             <br />
              
           </p>
