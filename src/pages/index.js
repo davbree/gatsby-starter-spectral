@@ -17,7 +17,7 @@ const IndexPage = () => (
         <ul className="actions special">
           <li>
             <Scroll type="id" element="one">
-              <a href="http://www.moo.com" className="button primary">
+              <a href="#" className="button primary">
                 Explore!
               </a>
             </Scroll>
